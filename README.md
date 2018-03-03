@@ -10,7 +10,7 @@ Using [Maven] (https://maven.apache.org/)
 If you experienced `X Error of failed request:  RenderBadPicture (invalid Picture parameter)` on Linux build, try switch to branch `linux`. Run with arguments `<ip_to_sniff> <PortFilter|PPTPFilter> [target_ip]`
 
 # VMWare or Middle PC Setup
-Here is an easy way using `arpspoof` to redirect packets from your game pc to a middle pc.
+Here is an easy way using `arpspoof` to redirect packets from your Game PC to a Middle PC.
 
 # Make sure your VMWare instance or Middle PC is in the same LAN as your Game PC
 
