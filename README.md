@@ -22,3 +22,4 @@ Execute the following commands on the VMWare or Middle PC:
 5. run `sudo java -jar pubg-radar-with-dependencies.jar <middle_pc_ip> <PortFilter|PPTPFilter> <game_pc_ip>`
 
 Also Windows version included, don't ask for future updates...
+And use your own map.
