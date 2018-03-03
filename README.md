@@ -1,5 +1,5 @@
 # PUBG-Radar
-PUBG-Radar by sniffering udp packet...
+PUBG-Radar by sniffering UDP packet...
 
 Written in Kotlin.
 
@@ -12,7 +12,7 @@ If you experienced `X Error of failed request:  RenderBadPicture (invalid Pictur
 # VMWare or Middle PC Setup
 Here is an easy way using `arpspoof` to redirect packets from your game pc to a middle pc.
 
-# Note: make sure your VMWare instance or Middle PC is in the same LAN as your Game PC. (vmware instance should use bridged network)
+# Make sure your VMWare instance or Middle PC is in the same LAN as your Game PC
 
 Execute the following commands on the VMWare or Middle PC: 
 1. run `sudo apt-get install dsniff` to install `arpspoof`.
