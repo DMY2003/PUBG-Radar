@@ -24,5 +24,3 @@ Execute the following commands on the VMWare or Middle PC:
 Also Windows version included, don't ask for future updates...
 
 And use your own map.
-
-BTW, this one is better https://github.com/Jerry1211/PUBG-Radar same base!
