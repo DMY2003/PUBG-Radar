@@ -1,5 +1,7 @@
+!! THIS IS NOW OUTDATED !!
+
 # PUBG-Radar
-By sniffering UDP packets...
+By sniffering UDP packets
 
 Written in Kotlin.
 
@@ -20,7 +22,5 @@ Execute the following commands on the VMWare or Middle PC:
 3. run `sudo arpspoof -i <eth_interface_name> -t <game_pc_ip> <router_ip>` to spoof Game PC.
 4. run `sudo arpspoof -i <eth_interface_name> -t <router_ip> <game_pc_ip> ` to spoof Router.
 5. run `sudo java -jar pubg-radar-with-dependencies.jar <middle_pc_ip> <PortFilter|PPTPFilter> <game_pc_ip>`
-
-Also Windows version included, don't ask for future updates...
-
+   
 And use your own map.
