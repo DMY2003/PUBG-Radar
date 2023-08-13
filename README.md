@@ -3,6 +3,8 @@
 # PUBG-Radar
 By sniffering UDP packets
 
+<img src="https://raw.githubusercontent.com/DMY2003/PUBG-Radar/master/demo.gif">
+
 Written in Kotlin.
 
 # Build
